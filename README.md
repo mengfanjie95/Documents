@@ -114,9 +114,13 @@
 ### **4 综述**
 
 1.  知识表示学习研究进展 刘知远 2016 [http://nlp.csai.tsinghua.edu.cn/~lyk/publications/knowledge_2016.pdf\]
+
 2.  知识图谱研究进展 漆桂林 2017 [[http://tie.istic.ac.cn/ch/reader/view_abstract.aspx?doi=10.3772/j.issn.2095-915x.2017.01.002]\]
+
 3.  知识图谱技术综述 徐增林 [http://www.xml-data.org/dzkj-nature/html/201645589.htm]
+
 4.  基于表示学习的知识库问答研究进展与展望 刘康 [http://www.aas.net.cn/CN/10.16383/j.aas.2016.c150674]
+
 5.  Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods Heiko Paulheim [http://www.semantic-web-journal.net/system/files/swj1167.pdf]
 
 ### **5 视频教程**
@@ -126,29 +130,51 @@
 ### **6 代码**
 
 1.  ComplEx @ https://github.com/ttrouill/complex
+
 2.  EbemKG @ https://github.com/pminervini/ebemkg
+
 3.  HolE @ https://github.com/mnick/holographic-embeddings
+
 4.  Inferbeddings @ https://github.com/uclmr/inferbeddings
+
 5.  KGE-LDA @ https://github.com/yao8839836/KGE-LDA
+
 6.  KR-EAR @ https://github.com/thunlp/KR-EAR
+
 7.  mFold @ https://github.com/v-shinc/mFoldEmbedding
+
 8.  ProjE @ https://github.com/bxshi/ProjE
+
 9.  RDF2Vec @ http://data.dws.informatik.uni-mannheim.de/rdf2vec/code/
+
 10.  Resource2Vec @ https://github.com/AKSW/Resource2Vec/tree/master/resource2vec-core
+
 11.  TranslatingModel @ https://github.com/ZichaoHuang/TranslatingModel
+
 12.  wiki2vec (for DBpedia only) @ https://github.com/idio/wiki2vec
 
 ### **7 领域专家**
 
 1.  Antoine Bordes [https://research.fb.com/people/bordes-antoine/]
+
 2.  Estevam Rafael Hruschka Junior（Federal University of Sao Carlos） [http://www.cs.cmu.edu/~estevam/\]
+
 3.  鲍捷（Memect） [[http://baojie.org/blog/]]
+
 4.  陈华钧（浙江大学） [http://mypage.zju.edu.cn/huajun]
+
 5.  刘知远（清华大学） [http://nlp.csai.tsinghua.edu.cn/~lzy/\]
+
 6.  秦兵（哈尔滨工业大学） [https://m.weibo.cn/u/1880324342?sudaref=login.sina.com.cn&retcode=6102]
+
 7.  赵军（中科院自动化所） http://www.nlpr.ia.ac.cn/cip/jzhao.htm
+
 8.  王昊奋 狗尾草智能科技公司 [http://www.gowild.cn/home/ours/index.html]
+
 9.  漆桂林 东南大学 [http://cse.seu.edu.cn/people/qgl/index.htm]
+
 10.  刘  康   中科院自动化 [http://people.ucas.ac.cn/~liukang\]
+
 11.  韩先培 中国科学院软件研究所 [http://www.icip.org.cn/Homepages/hanxianpei/index.htm]
+
 12.  肖仰华 复旦大学 [http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=Yanghuaxiao]
