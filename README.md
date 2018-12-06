@@ -1,6 +1,6 @@
-## <center>**知识图谱 （Knowledge Graph）**</center>
+## <center>**知识图谱 （Knowledge Graph）**</center>
 
-###  **1 入门学习**
+### **1 入门学习**
 
 1.  大规模知识图谱技术 王昊奋 华东理工大学
 [https://wenku.baidu.com/view/3d891bdcf524ccbff021840e.html?sxts=1544106674435]
@@ -24,7 +24,7 @@
 11.  NLP与知识图谱的对接 白硕 [http://caai.cn/index.php?s=/Home/Article/qikandetail/year/2017/month/04.html]
 
 
-### **2 进阶论文**
+### **2 进阶论文**
 
 1.  sowa J F. Principles of semantic networks: Exploration in the representation of Knowledge[J]. Frame Problem in Artificial Intelligence, 1991(2-3):135–157\. [https://www.researchgate.net/publication/230854809_Principles_of_Semantic_Networks_Exploration_in_the_Representation_of_Knowledge]
 
@@ -96,7 +96,7 @@
 
 35.  Navigli R, Ponzetto S P. BabelNet: Building a very Large Multilingual S emantic Network[ C ]// annual Meeting of the association for computational linguistics. 2010:216-225\. [https://dl.acm.org/citation.cfm?id=1858704]
 
-### **3 Tutorial**
+### **3 Tutorial**
 
 1.  知识图谱导论 刘  康   韩先培 [http://cips-upload.bj.bcebos.com/ccks2017/upload/CCKS2017V5.pdf]
 
@@ -111,7 +111,7 @@
 
 6.  深度学习与知识图谱 刘知远 韩先培 CCL2016 [http://www.cips-cl.org/static/CCL2016/tutorialpdf/T2A_%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1_part3.pdf]
 
-### **4 综述**
+### **4 综述**
 
 1.  知识表示学习研究进展 刘知远 2016 [http://nlp.csai.tsinghua.edu.cn/~lyk/publications/knowledge_2016.pdf\]
 2.  知识图谱研究进展 漆桂林 2017 [[http://tie.istic.ac.cn/ch/reader/view_abstract.aspx?doi=10.3772/j.issn.2095-915x.2017.01.002]\]
@@ -119,11 +119,11 @@
 4.  基于表示学习的知识库问答研究进展与展望 刘康 [http://www.aas.net.cn/CN/10.16383/j.aas.2016.c150674]
 5.  Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods Heiko Paulheim [http://www.semantic-web-journal.net/system/files/swj1167.pdf]
 
-### **5 视频教程**
+### **5 视频教程**
 
 1.  Google 知识图谱系列教程（1-21）[https://www.youtube.com/watch?v=mmQl6VGvX-c&list=PLOU2XLYxmsII2vIhzAyW6eouf62ur2Z2q]
 
-### **6 代码**
+### **6 代码**
 
 1.  ComplEx @ https://github.com/ttrouill/complex
 2.  EbemKG @ https://github.com/pminervini/ebemkg
@@ -138,7 +138,7 @@
 11.  TranslatingModel @ https://github.com/ZichaoHuang/TranslatingModel
 12.  wiki2vec (for DBpedia only) @ https://github.com/idio/wiki2vec
 
-### **7 领域专家**
+### **7 领域专家**
 
 1.  Antoine Bordes [https://research.fb.com/people/bordes-antoine/]
 2.  Estevam Rafael Hruschka Junior（Federal University of Sao Carlos） [http://www.cs.cmu.edu/~estevam/\]
